@@ -1,0 +1,3 @@
+[submodule "June_14_2012_Modern_Cocoa_Text/modern_cocoa_text"]
+	path = June_14_2012_Modern_Cocoa_Text/modern_cocoa_text
+	url = git://github.com/jbrennan/ModernCocoaText.git
