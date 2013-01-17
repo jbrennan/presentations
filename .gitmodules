@@ -1,3 +1,6 @@
 [submodule "June_14_2012_Modern_Cocoa_Text/modern_cocoa_text"]
 	path = June_14_2012_Modern_Cocoa_Text/modern_cocoa_text
 	url = git://github.com/jbrennan/ModernCocoaText.git
+[submodule "Oct_11_2012_SuperDB_Cocoaheads_NYC/superdb"]
+	path = Oct_11_2012_SuperDB_Cocoaheads_NYC/superdb
+	url = https://github.com/Shopify/superdb.git
